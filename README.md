@@ -1,6 +1,6 @@
 # Генератор случайных чисел
 
-![Генератор случайных чисел](https://img.icons8.com/color/96/000000/random.png)
+![Генератор случайных чисел](https://appleinsider.ru/wp-content/uploads/2012/02/photo1-466x526.png)
 
 ## Описание
 
