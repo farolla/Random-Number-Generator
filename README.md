@@ -1,6 +1,6 @@
 # Генератор случайных чисел
 
-![Random Number]([https://img.icons8.com/color/96/000000/random.png](https://unila.ru/images/apps/medium/b53050ff37cc9476c9c702683eb218f3.png)
+![Random Number]([https://img.icons8.com/color/96/000000/random.png](https://unila.ru/images/apps/medium/b53050ff37cc9476c9c702683eb218f3.png))
 
 ## Описание
 
